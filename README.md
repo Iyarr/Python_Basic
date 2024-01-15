@@ -1,6 +1,13 @@
 # Python_Basic
 
+## 分かったこと
+
+- 無名関数
+  - lamda を使用する
+
 ## 作業内容
+
+### func
 
 - ライブラリの一覧表示
   - pipenv list
@@ -12,3 +19,8 @@
 - コードの作製
 - 実行
   - python NoNameFunc.py
+- ファイル構成の変更
+  - 他の学習内容も記録しやすくした。ファイル名も変更した
+- 無名関数の作成
+- 実行
+  - python no_name_function.py
